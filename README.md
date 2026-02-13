@@ -18,7 +18,7 @@ This repository hosts the privacy policies and demo videos for Health Umbrella m
 
 ## About
 
-Health Umbrella provides emergency medical services and ambulance tracking solutions.
+Health Umbrella provides transportation services and GPS tracking solutions.
 
 **Contact:**
 - Email: privacy@healthumbrella.com
@@ -26,4 +26,5 @@ Health Umbrella provides emergency medical services and ambulance tracking solut
 
 ---
 
-Last Updated: February 11, 2026
+Last Updated: February 13, 2026
+**Note:** Privacy policies updated to reflect transportation utility positioning for Google Play Store compliance.
